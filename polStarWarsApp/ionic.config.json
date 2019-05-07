@@ -1,0 +1,7 @@
+{
+  "name": "polStarWarsApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
